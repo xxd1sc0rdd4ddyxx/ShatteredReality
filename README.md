@@ -1,18 +1,19 @@
 # ShatteredReality  
 
-🎮 **ShatteredReality** – A 3D co-op multiplayer action-adventure set in a post-apocalyptic world.  
-Players collect artifacts, defeat powerful bosses, and work together to save reality from collapsing.  
+**ShatteredReality** is a 3D co-op multiplayer action-adventure set in a post-apocalyptic world.  
+Players collect artifacts, battle formidable bosses, and work together to prevent reality from collapsing.  
 
-🚧 **Project Status: In Development**  
-⚠️ This game is currently under development and **not yet available for download**.  
-Some features are incomplete, and the project is actively being worked on.  
+## Project Status  
 
-🔨 **Planned Features:**  
-- Multiplayer co-op gameplay  
-- Artifact collection & powerful bosses  
+This game is currently in development and not yet available for download.  
+Some features are still in progress, and active development is ongoing.  
+
+## Planned Features  
+
+- Cooperative multiplayer gameplay  
+- Artifact collection and intense boss battles  
 - Immersive 3D environments  
 
-📅 **Stay Tuned**  
-Follow this repository for updates and progress on the project.  
+## Stay Updated  
 
----
+Follow this repository for development progress and updates.  
